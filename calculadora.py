@@ -1,7 +1,7 @@
 print ("== CALCULADORA ==")
 
 num1 = float(input("digite o primeiro numero: "))
-num2 = float(input("digite o segunto numero: "))
+num2 = float(input("digite o segundo numero: "))
 
 print("\nEscolha uma operação:")
 print("1 - Adição")
@@ -31,4 +31,4 @@ elif operação == "4":
       print("Erro, não é possivel dividir por zero.")
 
 else:
-  print("operação inválida.")
+  print("Operação inválida.")
