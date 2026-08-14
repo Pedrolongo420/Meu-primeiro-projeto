@@ -10,11 +10,11 @@ Esse programa recebe números informados pelo usuário e realiza uma operação 
 Para executar o programa através do arquivo `.sh`, primeiro dê
 permissão de execução:
 
-chmod +x executar.sh
+chmod +x calculadora.sh
 
 Depois execute:
 
-./executar.sh
+./calculadora.sh
 
 ## Código Python
 
@@ -29,5 +29,5 @@ O resultado é então apresentado na tela utilizando `print()`.
 ## Arquivos
 
 - `calculadora.py` — código principal do programa.
-- `executar.sh` — script responsável por executar o programa.
+- `calculadora.sh` — script responsável por executar o programa.
 - `README.md` — documentação do projeto.
